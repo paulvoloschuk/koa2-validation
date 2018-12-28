@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/gedennis/koa2-validation#readme",
   "dependencies": {
-    "joi": "^14.1.0",
+    "joi": "^14.3.1",
     "lodash": "^4.17.11"
   },
   "devDependencies": {
